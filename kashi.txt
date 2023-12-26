@@ -1,2 +1,3 @@
-welcome to india
-tommoroww is thursday. this is my file
+welcome to git lab
+here is kashi
+i am in branch1
