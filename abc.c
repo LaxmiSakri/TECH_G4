@@ -2,4 +2,5 @@
 void main()
 {
 int a,b;
-printf
+printf('enter two numbers')
+scanf("%d",&n)
