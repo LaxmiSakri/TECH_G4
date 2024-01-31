@@ -27,3 +27,12 @@ scanf("%d",&item);
 }
 return top;
 }
+void display(){
+int top,item;
+if("top==-1")
+printf("stack empty");
+else{
+printf("the elements are");
+for(i=top;i>=0;i++){
+printf("%d",s[i]);
+}
