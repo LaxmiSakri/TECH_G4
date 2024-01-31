@@ -14,5 +14,18 @@ top++;
 s[top]=item;
 }
 }
+int pop(){ 
+int top,item; 
+if(top==-1) 
+printf("stack empty"); 
+else{
+s[top]=item;
+top--;
+printf("poped element:%d",s[i]);
+}
+}
+
+
+
 
 
