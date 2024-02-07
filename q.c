@@ -7,3 +7,7 @@ if(top==q_s-1)
 int pop()
 int top,item;
 if(top==-1)
+void display()
+int top,item;
+if(top==-1)
+
